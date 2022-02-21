@@ -1,8 +1,10 @@
 
 import os
+import time
 import logging
 from logging.handlers import RotatingFileHandler
 
+class Config(object):
 
 # Get a bot token from botfather
 TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
