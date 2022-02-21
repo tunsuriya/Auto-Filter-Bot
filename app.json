@@ -50,7 +50,7 @@
             "description": "To check dyno status. Go to https://dashboard.heroku.com/account, scroll down and press Reveal API",
             "value": "None",
             "required": false
-        }
+        },
         "TG_USER_SESSION": {
             "description": "A pyrogram user session string. Generate from https://repl.it/@SpEcHiDe/GenerateStringSession",
             "value": ""
